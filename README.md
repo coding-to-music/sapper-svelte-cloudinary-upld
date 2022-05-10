@@ -34,6 +34,12 @@ vercel --prod --confirm
 # vercel env add
 ```
 
+## In Vercel console set the Settings-->Output Directory to
+
+```java
+__sapper__/build
+```
+
 # sapper-cloudinary-upload
 
 Upload Images to Cloudinary with Sapper.
