@@ -16,6 +16,7 @@ https://github.com/lelouchB/sapper-cloudinary-upload
 CLOUDINARY_CLOUD=""
 CLOUDINARY_KEY=""
 CLOUDINARY_SECRET=""
+
 ```
 
 ## GitHub
